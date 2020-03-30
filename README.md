@@ -9,4 +9,4 @@ See more information on [Blog](https://sites.google.com/view/minituring/home), [
 
 如果您希望踏上教会机器因果思维的强人工智能之路，请加入我们！
 
-![](./wechat.jpeg)
+<img src='logos/qrcode.jpeg' width=200></img>
