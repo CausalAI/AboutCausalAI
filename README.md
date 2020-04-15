@@ -2,7 +2,8 @@
 
 当前众多强人工智能尝试中，我们的选择是: Pearl -> Scholkopf -> Bengio。
 
-Judea Pearl 是 Causal AI 的奠基人，Bernhard Scholkopf 推进了 Causality for Machine Learning，Yoshua Bengio 提出了 System 2 deep learning 作为 Causal AI 的一个范式。沉醉于 life and Intelligence 之美，众多工具中（包括数学，计算机，物理，复杂系统等等），偏好用信息论视角研究如何教会机器因果思维，希望创造具备 free will 的 AI，使之成为我们的良师益友，一起探索解密生命和智能的终极奥秘。
+Judea Pearl 是 Causal AI 的奠基人，Bernhard Scholkopf 推进了 Causality for Machine Learning，Yoshua Bengio 提出了 System 2 deep learning 作为 Causal AI 的一个范式。沉醉于 life and Intelligence 之美，尤其是人类社会系统的群体智能。众多工具中（包括数学，计算机，物理，复杂系统等等），偏好用信息论视角研究如何教会机器因果思维，希望创造具备 free will 的 AI，使之成为我们的良师益友，一起探索解密生命和智能的终极奥秘。
+
 
 See more information on [Blog](https://sites.google.com/view/minituring/home), [github](https://sites.google.com/view/minituring/home).
 
